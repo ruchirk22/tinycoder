@@ -56,7 +56,7 @@ Type `y` to allow, anything else to deny. The result — stdout, stderr, and exi
 ## Quickstart
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/tinycoder.git
+git clone https://github.com/ruchirk22/tinycoder.git
 cd tinycoder
 pip install -r requirements.txt
 echo "GROQ_API_KEY=your_key_here" > .env
