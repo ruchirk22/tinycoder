@@ -85,7 +85,7 @@ you › create fizzbuzz.py that prints fizzbuzz 1 to 20, then run it
 tinycoder › Done! fizzbuzz.py is working correctly.
 ```
 
-The agent can also detect errors from the output and fix them without being told what went wrong — see [`test.md`](./test.md) for annotated sessions.
+The agent can also detect errors from the output and fix them without being told what went wrong — check out Tests folder for annotated sessions.
 
 ---
 
